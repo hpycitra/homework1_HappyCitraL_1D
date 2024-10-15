@@ -1,4 +1,4 @@
-print('PEKERJA FREELANCE')
+print('SELEKSI FREELANCE')
 nama_pekerja = str (input('Masukkan Nama :'))
 pendidikan = str (input('Masukkan Pendidikan Anda :'))
 usia = int(input('Masukkan Usia :'))
