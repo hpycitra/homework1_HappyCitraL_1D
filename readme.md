@@ -21,7 +21,7 @@ Program menggunakkan kondisi if untuk mengevaluasi apakah orang yang mengikuti s
 
 Jika orang yang mengikuti seleksi memenuhi semua persyaratan maka hasil orang yang mengikuti freelance akan 'Selamat Anda di terima freelance harian dan mengikuti training terlebih dahulu'
 
-Jika tidak memenuhi semua persyaratan maka hasil orang yang mengikuti seleksi freelance kan 'Maaf Aanda tidak di Terima'
+Jika tidak memenuhi semua persyaratan maka hasil orang yang mengikuti seleksi freelance kan 'Maaf Anda tidak di Terima'
 
 ## Lamgkah-langkah Program 
 
