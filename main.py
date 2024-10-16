@@ -1,6 +1,6 @@
 print('SELEKSI FREELANCE')
 nama_pekerja = str (input('Masukkan Nama :'))
-pendidikan = str (input('Masukkan Pendidikan Anda :'))
+pendidikan_terakhir= str (input('Masukkan Pendidikan Anda :'))
 usia = int(input('Masukkan Usia :'))
 jenis_kelamin = str (input('Masukkan Jenis Kelamin :'))
 tinggi_badan = float(input('Masukkan Tinggi Badan :'))
