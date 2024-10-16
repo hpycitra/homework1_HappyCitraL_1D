@@ -23,9 +23,9 @@ Jika orang yang mengikuti seleksi memenuhi semua persyaratan maka hasil orang ya
 
 Jika tidak memenuhi semua persyaratan maka hasil orang yang mengikuti seleksi freelance kan 'Maaf Anda tidak di Terima'
 
-## Lamgkah-langkah Program 
+## Langkah-langkah Program 
 
-Berikut adalah langkah-langkah rinci berdasarkan program yang tertera
+Berikut adalah langkah-langkah rinci berdasarkan program yang tertera :
 
 1. Mulai terlebih dahulu
 
